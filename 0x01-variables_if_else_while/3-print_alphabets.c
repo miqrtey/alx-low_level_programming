@@ -23,7 +23,3 @@ up += 1;
 putchar('\n');
 return (0);
 }
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Sec
